@@ -1,0 +1,21 @@
+{
+  "name": "jquery-hasancestor",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "jquery",
+    "has",
+    "ancestor",
+    "parent",
+    "parents"
+  ],
+  "homepage": "https://github.com/bisubus/jquery-hasancestor",
+  "license": "MIT",
+  "ignore": [],
+  "main": [
+    "./jquery-hasancestor.js"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}
